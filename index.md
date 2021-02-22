@@ -1,8 +1,9 @@
+# Informe Práctica 2 - Instalación y configuración de Visual Studio Code
+
 ## Introducción
 
-
-
 ## Objetivos
+
 * Tareas previas
 * Instalacion y funcionalidad de Visual Studio Code
 * Configuración de Visual Studio Code para conectarse a una máquina remota por SSH
@@ -25,20 +26,16 @@ Se siguió el proceso de [instalacion recomendado](https://code.visualstudio.com
 
 ![Recomendacion de instalacion de TypeScript](./img/installing-tsc.png)
 
+También se instaló la extension de ESLint a través del [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next):
+
+![Instalado ESLint](./img/eslint.png)
 
 ## Configuración de Visual Studio Code para conectarse a una máquina remota por SSH
 
-
 ## Sesiones colaborativas con Visual Studio Live Share
-
-
 
 ## Primer proyecto en TypeScript: “Hola Mundo”
 
-
-
 ## Conclusiones
-
-
 
 ## Bibliografía
