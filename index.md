@@ -4,11 +4,11 @@
 
 ## Objetivos
 
-* Tareas previas
-* Instalacion y funcionalidad de Visual Studio Code
-* Configuración de Visual Studio Code para conectarse a una máquina remota por SSH
-* Sesiones colaborativas con Visual Studio Live Share
-* Primer proyecto en TypeScript: “Hola Mundo”
+- Realizar las tareas previas
+- Instalar y estudiar la funcionalidad de Visual Studio Code
+- Configurar de Visual Studio Code para conectarse a una máquina remota por SSH
+- Configurar las sesiones colaborativas con Visual Studio Live Share
+- Desarrollar el primer proyecto en TypeScript: “Hola Mundo”
 
 ## Tareas previas
 
@@ -35,14 +35,36 @@ También se instaló la extension de ESLint a través del [Visual Studio Marketp
 Respecto a esta configuración, tambien estaba realizada del año anterior, siendo visible en la captura de pantalla que estamos conectados por ssh a la máquina virtual utilizando VSCode.
 
 ![Conectado por ssh a traves de VSCode](./img/vscode-ssh-configured.png)
+
 ![Terminal mostrando el hostname de la VM](./img/ssh-demonstration.png)
 
 ## Sesiones colaborativas con Visual Studio Live Share
 
 Las sesiones colaborativas estaban instaladas del año anterior, aunque no estaban instalados todas las herramientas recomendadas (Browser Preview, GitHub Pull Requests, Live Server Pomodoro, etc.) así que fueron instaladas a través del buscador de extensiones de VSCode.
+
 ![Ejemplo de extensiones instaladas](./img/ejemplo-extensiones.png)
 
 ## Primer proyecto en TypeScript: “Hola Mundo”
+
+Nos podemos saltar la instalacion de TypeScript recomendada en el guión puesto que ya la realizamos en el primer paso.
+
+Se ejecutan los comandos que nos piden en el guión, para poder incicar el proyecto de prueba de TypeScript.
+
+![Inicializando proyecto](./img/initialized-helloworld.png)
+
+El siguiente paso es crear el fichero tsconfig.json en donde se pasaran los parametros con los que se compilara el TypeScript a JavaScript.
+
+![Fichero tsconfig](./img/tsconfig.png)
+
+Se creará una carpeta **src** en donde tendremos el código en TypeScript, que al compilarse se transformará en JavaScript que se almacenará en la carpeta **dist** de manera automática.
+
+![Estructura](./img/structure.png)
+
+Por ultimo, compilaremos el código en la terminal de VSCode:
+
+![Compilado](./img/compiled.png)
+
+![Dist creado automatico](img/dist-created.png)
 
 ## Conclusiones
 
