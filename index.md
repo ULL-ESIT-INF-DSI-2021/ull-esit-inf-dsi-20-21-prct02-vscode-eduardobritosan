@@ -1,6 +1,6 @@
-# Informe Práctica 2 - Instalación y configuración de Visual Studio Code
-
 ## Introducción
+
+Esta asignacion se basra en realizar todo el trabajo previo para poder empezar a utilizar VSCode, un editor de texto flexible con potencial de entorno de desarrollo. Para ello, se revisará como instalarlo, que extensiones son las mas comunes, leer un pequeño tutorial sobre VSCode, configurarlo para conectarse por SSH a una máquina remota, en nuestro caso a la maquina virtual que configuramos en la práctica anterior, configurar las sesione colaborativas con Visual Studio Live Share, y, por último, sumergirnos levemente en el mundo de TypeScript, un superconjunto de JavaScript que añade tipos estáticos y objetos basados en clases, con un sencillo ejemplo.
 
 ## Objetivos
 
@@ -68,4 +68,8 @@ Por ultimo, compilaremos el código en la terminal de VSCode:
 
 ## Conclusiones
 
+En general fue una practica sencilla de realizar, en donde la mayoria del trabajo se baso en recopilar la informacion y las imagenes necesarias para generar un informe competente. A pesar de ello, se encontraron incovenientes cuya investigacion sigue abierta, como la interaccion de ciertas extensiones con el entorno del IaaS.
+
 ## Bibliografía
+
+TypeScript (s.f.). En _Wikipedia_. Recuperado el 23 de febrero de 2021 de https://es.wikipedia.org/wiki/TypeScript
