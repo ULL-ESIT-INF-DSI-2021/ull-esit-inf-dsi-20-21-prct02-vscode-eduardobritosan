@@ -32,12 +32,15 @@ También se instaló la extension de ESLint a través del [Visual Studio Marketp
 
 ## Configuración de Visual Studio Code para conectarse a una máquina remota por SSH
 
-Respecto a esta configuración, tambien estaba realizada del año anterior, siendo visible en la captura de pantalla que estamos conectados por ssh a la máquina virtual utilizando VSCode
+Respecto a esta configuración, tambien estaba realizada del año anterior, siendo visible en la captura de pantalla que estamos conectados por ssh a la máquina virtual utilizando VSCode.
 
 ![Conectado por ssh a traves de VSCode](./img/vscode-ssh-configured.png)
 ![Terminal mostrando el hostname de la VM](./img/ssh-demonstration.png)
 
 ## Sesiones colaborativas con Visual Studio Live Share
+
+Las sesiones colaborativas estaban instaladas del año anterior, aunque no estaban instalados todas las herramientas recomendadas (Browser Preview, GitHub Pull Requests, Live Server Pomodoro, etc.) así que fueron instaladas a través del buscador de extensiones de VSCode.
+![Ejemplo de extensiones instaladas](./img/ejemplo-extensiones.png)
 
 ## Primer proyecto en TypeScript: “Hola Mundo”
 
